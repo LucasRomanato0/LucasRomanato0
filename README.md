@@ -27,6 +27,7 @@ Atualmente trabalho como desenvolvedor web e mobile.
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=LucasRomanato0&theme=dark&hide_border=false&border_radius=5)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRomanato0&show_icons=true&theme=dark&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRomanato0&layout=compact&theme=dark)
