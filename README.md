@@ -1,6 +1,6 @@
 # Olá, bem vindo ao meu GitHub! 😁
 
-Eu sou o Lucas, estudante de Engenharia de Computação no Instituto Mauá de Tecnologia.
+Eu sou o Lucas, formado em Engenharia de Computação pelo Instituto Mauá de Tecnologia.
 
 Atualmente trabalho como desenvolvedor web e mobile.
 
